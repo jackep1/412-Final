@@ -1,0 +1,17 @@
+16 16 4 4
+
+Door 0 at 15, 12
+Door 1 at 12, 9
+Door 2 at 15, 10
+Door 3 at 4, 6
+
+Box 0 at 13, 14
+Box 1 at 4, 11
+Box 2 at 14, 11
+Box 3 at 12, 12
+
+Robot 0 at 11, 3
+Robot 1 at 12, 4
+Robot 2 at 14, 7
+Robot 3 at 5, 5
+
