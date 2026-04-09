@@ -1,0 +1,21 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "/home/jack/Documents/URI/Past Semesters/2024 Fall/CSC412/Final/Version3/cmake-build-debug",
+	"dir-cur-src" : "/home/jack/Documents/URI/Past Semesters/2024 Fall/CSC412/Final/Version3",
+	"dir-top-bld" : "/home/jack/Documents/URI/Past Semesters/2024 Fall/CSC412/Final/Version3/cmake-build-debug",
+	"dir-top-src" : "/home/jack/Documents/URI/Past Semesters/2024 Fall/CSC412/Final/Version3",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"/home/jack/Documents/URI/Past Semesters/2024 Fall/CSC412/Final/Version3/."
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/jack/Documents/URI/Past Semesters/2024 Fall/CSC412/Final/Version3/cmake-build-debug/CMakeFiles/Version3.dir"
+}

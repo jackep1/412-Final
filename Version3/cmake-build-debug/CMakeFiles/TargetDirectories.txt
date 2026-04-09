@@ -1,0 +1,3 @@
+/home/jack/Documents/URI/Past Semesters/2024 Fall/CSC412/Final/Version3/cmake-build-debug/CMakeFiles/Version3.dir
+/home/jack/Documents/URI/Past Semesters/2024 Fall/CSC412/Final/Version3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jack/Documents/URI/Past Semesters/2024 Fall/CSC412/Final/Version3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
